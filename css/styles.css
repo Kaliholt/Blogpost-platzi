@@ -4,6 +4,21 @@ body {
     text-align: center;
 }
 
+#cabecera {
+    background-color: #30A;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.30);
+}
+
+#cabecera #tagline {
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
 #container {
     width: 70%;
     margin: 0 auto;
